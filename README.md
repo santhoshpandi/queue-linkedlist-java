@@ -4,20 +4,24 @@ Hello everyone,
 
 This program deals with the linkedlist implementation of Queue which performs various operations like 
 
-enqueue
+1.enqueue
 
-dequeue
+2.dequeue
 
-display
+3.display
 
-size
+4.size
 
-isEmpty
+5.isEmpty
 
 
 Procedure to run this code:
 
-download this repository and open in command-prompt / java editor:
+download this repository in command-prompt:
+
+git clone https://github.com/santhoshpandi/queue-linkedlist-java.git
+
+and open in command-prompt / java editor:
 
 javac queue.java
 
